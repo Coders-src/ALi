@@ -1,6 +1,6 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/brblacky/ALi)
-[![Run on Repl.it](https://repl.it/badge/github/brblacky/ALi)](https://repl.it/github/brblacky/ALi)
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/brblacky/ALi)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/coders-src/ALi)
+[![Run on Repl.it](https://repl.it/badge/github/coders-src/ALi)](https://repl.it/github/brblacky/ALi)
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/coders-src/ALi)
 
 
 [![Version][version-shield]](version-url)
@@ -15,7 +15,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/brblacky/ALi">
+  <a href="https://github.com/coders-src/ALi">
     <img src="https://media.discordapp.net/attachments/841728122633715743/867392701997908008/uwp1269208-01.jpeg" alt="Pbot-plus" width="200" height="200">
   </a>
 
@@ -47,7 +47,7 @@
 ## 🚀 Installation
  You can add ALi to your server with [this](https://discord.com/api/oauth2/authorize?client_id=841716414053351486&permissions=8&scope=bot) link! Alternatively, you can clone this repo and host the bot yourself.
 ```
-git clone https://github.com/brblacky/ALi.git
+git clone https://github.com/coders-src/ALi.git
 ```
 After cloning, run an
 ```
@@ -102,7 +102,7 @@ If you liked this repository, feel free to leave a star ⭐ to help promote !
 
 - Hello! Here is another tutorial in which you will learn how to use the mongodb database.
 
-- First, let's download the project (you can do this by clicking on [me *ALi*](https://github.com/brblacky/ALi/archive/master.zip))
+- First, let's download the project (you can do this by clicking on [me *ALi*](https://github.com/coders-src/ALi/archive/master.zip))
 
 - Next, we need to create a server. This is the longest stage. So make some tea and sit down at the computer: 3
 
@@ -166,17 +166,17 @@ If you liked this repository, feel free to leave a star ⭐ to help promote !
 
 ## 🔐 License
 
-Distributed under the MIT License. See [`LICENSE`](https://github.com/brblacky/Ali/blob/master/LICENSE) for more information.
+Distributed under the MIT License. See [`LICENSE`](https://github.com/coders-src/Ali/blob/master/LICENSE) for more information.
 
-[version-shield]: https://img.shields.io/github/package-json/v/brblacky/ALi?style=for-the-badge
+[version-shield]: https://img.shields.io/github/package-json/v/coders-src/ALi?style=for-the-badge
 [version-url]: https://github.com/brblacky/ALi
-[contributors-shield]: https://img.shields.io/github/contributors/brblacky/ALi.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/coders-src/ALi.svg?style=for-the-badge
 [contributors-url]: https://github.com/brblacky/ALi/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/brblacky/ALi.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/coders-src/ALi.svg?style=for-the-badge
 [forks-url]: https://github.com/brblacky/ALi/network/members
-[stars-shield]: https://img.shields.io/github/stars/brblacky/ALi.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/coders-src/ALi.svg?style=for-the-badge
 [stars-url]: https://github.com/brblacky/ALi/stargazers
-[issues-shield]: https://img.shields.io/github/issues/brblacky/ALi.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/coders-src/ALi.svg?style=for-the-badge
 [issues-url]: https://github.com/brblacky/ALi/issues
-[license-shield]: https://img.shields.io/github/license/brblacky/ALi.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/coders-src/ALi.svg?style=for-the-badge
 [license-url]: https://github.com/brblacky/ALi/blob/master/LICENSE
